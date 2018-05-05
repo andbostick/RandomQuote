@@ -1,0 +1,26 @@
+.container {
+    margin: 15% 25%;
+    padding: 50px;
+    text-align: center;
+    line-height: 1.6em;
+}
+
+#quote {
+    padding: 20px;
+}
+
+#title {
+    padding: 20px;
+}
+
+#new {
+    position: relative;
+    margin-top: 30px;
+    /* border: none; */
+    padding: 20px 40px;
+    border-radius: 10px
+}
+
+#new:hover {
+    background: lightslategray;
+}
